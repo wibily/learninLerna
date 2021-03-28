@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "startA": "lerna run --scope @wibily/lerna-project-a start"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
